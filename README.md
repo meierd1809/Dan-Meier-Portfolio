@@ -2,8 +2,8 @@
 
 ## Introduction:
 
-I’m interested in Predictive Analytics, specifically as it surrounds topics pertaining to Psychology
-I’m currently learning about Predictive Analytics, working with groups on Data Science projects, and how to
+My name is Daniel Meier. I’m interested in Predictive Analytics, specifically as it surrounds topics pertaining to 
+Psychology. I’m currently learning about Predictive Analytics, working with groups on Data Science projects, and how to
 further enhance my skills to pursue a career in the field of Psychology. For more about me, please see the links 
 to my projects below or you can navigate to my github page and explore!
 
