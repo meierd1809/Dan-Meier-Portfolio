@@ -19,3 +19,4 @@ further enhance my skills to pursue a career in the field of Psychology
 ## Contact:
 Below is contact information if you have any feedback or ideas for collaboration.
 - **Email**: meierd1809@gmail.com
+- **GitHub**: https://github.com/meierd1809
