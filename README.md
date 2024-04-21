@@ -7,8 +7,9 @@ I’m currently learning about Predictive Analytics, working with groups on Data
 further enhance my skills to pursue a career in the field of Psychology
 
 ## Project Links:
-- [https://github.com/meierd1809/Virtual-Garage.git](https://github.com/meierd1809/Virtual-Garage-Program/blob/test-branch/main.py)
-- [Data Science Projects]https://github.com/meierd1809/Miles-to-Kilometers/blob/main/main.py
+- [Virtual Garage](https://github.com/meierd1809/Virtual-Garage-Program/blob/test-branch/main.py)
+- [Miles to Kilometers Conversion]https://github.com/meierd1809/Miles-to-Kilometers/blob/main/main.py
+- [Open-Weather-API]https://github.com/meierd1809/Open-Weather-API
 
 ## Education and Training:
 **Briar Cliff University** - Bachelor's Degree, Psychology, Minor, Computer Science
