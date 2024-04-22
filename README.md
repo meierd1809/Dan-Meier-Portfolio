@@ -1,4 +1,4 @@
-# Data Portfolio
+# Dan Meier's Data Portfolio
 
 ## Introduction:
 
