@@ -1,6 +1,6 @@
 # Dan Meier's Data Portfolio
 
-## Introduction:
+## About Me:
 
 My name is Daniel Meier. I’m interested in Predictive Analytics, specifically as it surrounds topics pertaining to 
 Psychology. I’m currently learning about Predictive Analytics, working with groups on Data Science projects, and how to
