@@ -14,7 +14,7 @@ to my projects below or you can navigate to my github page and explore!
 - [Open-Weather-API](https://github.com/meierd1809/Open-Weather-API)
 
 ## Education and Training:
-**Briar Cliff University** - Bachelor's Degree, Psychology, Minor, Computer Science
+**Briar Cliff University** - Bachelor's Degree, Psychology, Minor, Computer Science </br>
 **Bellevue University** - Bachelor’s Degree, Data Science
 
 
