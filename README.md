@@ -9,9 +9,9 @@ to my projects below or you can navigate to my github page and explore!
 
 
 ## Project Links:
-- [Energy Consumption Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%201)
-- [Data Science Salary Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%202)
-- [Student Stress Level Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%203)
+- Project 1 - [Energy Consumption Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%201)
+- Project 2 - [Data Science Salary Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%202)
+- Project 3 - [Student Stress Level Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%203)
 
 ## Education and Training:
 **Briar Cliff University** - BA, Psychology, Minor, Computer Science
