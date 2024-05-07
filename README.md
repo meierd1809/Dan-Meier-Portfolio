@@ -15,7 +15,7 @@ to my projects below or you can navigate to my github page and explore!
 
 ## Education and Training:
 **Briar Cliff University** - BA, Psychology, Minor, Computer Science
-</br>
+
 **Bellevue University** - BS, Data Science
 
 
