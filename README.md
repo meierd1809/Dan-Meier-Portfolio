@@ -14,9 +14,12 @@ to my projects below or you can navigate to my github page and explore!
 - Project 3 - [Student Stress Level Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%203)
 
 ## Education and Training:
+**Bellevue University** - BS, Data Science (2024)
+
+
 **Briar Cliff University** - BA, Psychology, Minor, Computer Science (2009)
 
-**Bellevue University** - BS, Data Science (2024)
+
 
 
 ## Contact:
