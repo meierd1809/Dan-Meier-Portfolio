@@ -10,7 +10,7 @@ to my projects below or you can navigate to my github page and explore!
 
 ## Project Links:
 - Project 1 - [Energy Consumption Predictive Model](https://meierd1809.github.io/Predicting-Energy-Consumption/)
-- Project 2 - [Data Science Salary Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%202)
+- Project 2 - [Data Science Salary Predictive Model](https://meierd1809.github.io/Predicting-Data-Science-Salaries/)
 - Project 3 - [Student Stress Level Predictive Model](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%203)
 
 ## Education and Training:
